@@ -84,10 +84,10 @@
 	  
   
 
-(ETK-Connect 0 "hts.etrade.co.kr" 20001 1024 10 -1)
+;; (ETK-Connect 0 "hts.etrade.co.kr" 20001 1024 10 -1)
 
-(MessageBoxA
-  0
-  "OH HAI!"
-  "THIS IS MESSAGE FROM OUTER SPACE"
-  0)
+;; (MessageBoxA
+;;   0
+;;   "OH HAI!"
+;;   "THIS IS MESSAGE FROM OUTER SPACE"
+;;   0)
